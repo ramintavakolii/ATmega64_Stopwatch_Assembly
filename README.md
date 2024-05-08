@@ -6,7 +6,7 @@ This repository contains a stopwatch program written in assembly language for th
 
 - Stopwatch functionality: Start, stop, and reset.
 - Timer interrupts for precise timing.
-- Utilizes ATmega64's GPIO for user interface.
+
 
 ## Requirements
 
